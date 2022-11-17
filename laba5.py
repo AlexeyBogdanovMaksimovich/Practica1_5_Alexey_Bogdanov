@@ -3,8 +3,6 @@
 s=str(input('Введите строку: '))
 string=''
 k=0
-s1='о'
-s2='а'
 for i in range(len(s)):
     if s[i]!='a':
         string+=s[i]
