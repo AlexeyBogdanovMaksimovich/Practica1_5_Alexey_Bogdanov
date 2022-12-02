@@ -29,9 +29,7 @@ while l!=len(D):
     while D[l]!=' ':
         D2+=D[l]
         l+=1
-
-    if D[l]==' ':
-        klv+=1
+    klv+=1
 
     if klv==1:
         result = ''.join(D2)
