@@ -1,3 +1,4 @@
+# Богданов Алексей Максимович, лабораторная 2, 2 семестр, вариант 4
 # Импортируем зависимости
 import numpy as np
 from matplotlib import pyplot as plt
